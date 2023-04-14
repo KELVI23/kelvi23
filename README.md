@@ -1,4 +1,4 @@
-![Cover photo](https://imgur.com/YbTOK6s)
+![Cover photo](https://imgur.com/YbTOK6s.png)
 
 
 ## Hi there 👋
