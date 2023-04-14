@@ -1,4 +1,8 @@
-![Cover photo](https://imgur.com/wSVLy5w.png)
+<p align="center">
+  <img src="(https://imgur.com/wSVLy5w.png)" alt="Cover photo" />
+</p>
+
+<!-- ![Cover photo](https://imgur.com/wSVLy5w.png) -->
 ## Hi there 👋
 
 I'm Kelvin Musodza, a software developer with a strong interest in Backend development and Machine Learning. I'm proficient in Java, Python, and C/C++ and have experience in developing scalable software solutions for various industries.
