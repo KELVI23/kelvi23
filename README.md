@@ -1,3 +1,6 @@
+![Cover photo](https://imgur.com/YbTOK6s)
+
+
 ## Hi there 👋
 
 I'm Kelvin Musodza, a software developer with a strong interest in Backend development and Machine Learning. I'm proficient in Java, Python, and C/C++ and have experience in developing scalable software solutions for various industries.
