@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://imgur.com/wSVLy5w.png" alt="Cover photo" />
+  <img src="https://imgur.com/2u44WGd.png" alt="Cover photo" />
 </p>
 
 <!-- ![Cover photo](https://imgur.com/wSVLy5w.png) -->
