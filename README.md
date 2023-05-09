@@ -20,7 +20,7 @@ If you have any questions or want to discuss software development, AI/ML, Java, 
 
 You can reach me via LinkedIn: https://www.linkedin.com/in/kelvin-musodza/ . I'm always happy to connect with fellow developers and discuss exciting new projects.
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d3810a50-fa36-4b22-9791-430e23419cee" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+[Badge](https://imgur.com/YVSyGXb.png)
 
 
 
