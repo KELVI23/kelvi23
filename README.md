@@ -20,7 +20,7 @@ If you have any questions or want to discuss software development, AI/ML, Java, 
 
 You can reach me via LinkedIn: https://www.linkedin.com/in/kelvin-musodza/ . I'm always happy to connect with fellow developers and discuss exciting new projects.
 
-<p align="right">
+<p align="left">
   <img src="https://imgur.com/YVSyGXb.png" alt="Badge" />
 </p>
 
