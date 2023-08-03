@@ -22,7 +22,9 @@ You can reach me via LinkedIn: https://www.linkedin.com/in/kelvin-musodza/ . I'm
 
 <p>
   <img src="https://imgur.com/YVSyGXb.png" alt="Badge" align="left" />
-
+  
+  <img src="https://imgur.com/DoWqh11.png" alt="Badge" align="center" />
+  
   <img src="https://imgur.com/MQ7LTLA.png" alt="Badge" align="right" />
 </p>
 
