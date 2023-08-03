@@ -22,16 +22,6 @@ You can reach me via LinkedIn: https://www.linkedin.com/in/kelvin-musodza/ . I'm
 
 
 
-/*
-<p>
-  <img src="https://imgur.com/YVSyGXb.png" alt="Badge" align="left" />
-  
-  <img src="https://imgur.com/DoWqh11.png" alt="Badge" align="center" />
-  
-  <img src="https://imgur.com/pc72rUD.png" alt="Badge" align="right" />
-</p>
-*/
-
 <div class="image-container">
   <img src="https://imgur.com/YVSyGXb.png" alt="Badge" />
   <img src="https://imgur.com/DoWqh11.png" alt="Badge" />
@@ -41,8 +31,8 @@ You can reach me via LinkedIn: https://www.linkedin.com/in/kelvin-musodza/ . I'm
 <style>
   .image-container {
     display: flex;
-    justify-content: space-between; /*  align the images to the left, center, and right */
-    align-items: center; /* This will vertically center the images */
+    justify-content: space-between; 
+    align-items: center; 
   }
 </style>
 
