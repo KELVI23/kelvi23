@@ -22,19 +22,14 @@ You can reach me via LinkedIn: https://www.linkedin.com/in/kelvin-musodza/ . I'm
 
 
 
-<div class="image-container">
-  <img src="https://imgur.com/YVSyGXb.png" alt="Badge" />
-  <img src="https://imgur.com/DoWqh11.png" alt="Badge" />
-  <img src="https://imgur.com/pc72rUD.png" alt="Badge" />
-</div>
+<table>
+  <tr>
+    <td><img src="https://imgur.com/YVSyGXb.png" alt="Badge" /></td>
+    <td><img src="https://imgur.com/DoWqh11.png" alt="Badge" /></td>
+    <td><img src="https://imgur.com/pc72rUD.png" alt="Badge" /></td>
+  </tr>
+</table>
 
-<style>
-  .image-container {
-    display: flex;
-    justify-content: space-between; 
-    align-items: center; 
-  }
-</style>
 
 
 
