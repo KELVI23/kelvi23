@@ -9,7 +9,7 @@ I'm Kelvin Musodza, a software developer with a strong interest in **Backend dev
 
 ### 🌱 Currently learning
 
-I'm always learning and improving my skills. Currently, I'm focusing on **Deep Learning, Computer Vision, Transformers, NLP & LLMs**, and I'm looking forward to applying this knowledge to my next project.
+I'm always learning and improving my skills. Currently, I'm focusing on **Deep Learning, Computer Vision, Transformers, NLP & LLMs**, and I'm looking forward to applying this knowledge to my next project. Currently developing an AI-powered financial analysis tool using transformers.
 
 ### 💬 Ask me about
 
@@ -17,7 +17,7 @@ If you have any questions or want to discuss **software development, AI/ML, NLP,
 
 ### 📫 How to reach me
 
-You can reach me via LinkedIn: https://www.linkedin.com/in/kelvin-musodza/ . I'm always happy to connect, collaborate and discuss exciting new projects/prospects.
+You can reach me via LinkedIn: https://www.linkedin.com/in/kelvin-musodza/ . I'm eager to connect with professionals for collaboration on cutting-edge projects.
 
 ### ⚙️ Tech Stack
 
