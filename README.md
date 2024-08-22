@@ -21,16 +21,16 @@ You can reach me via LinkedIn: https://www.linkedin.com/in/kelvin-musodza/ . I'm
 
 ### ⚙️ Tech Stack
 
-| **Languages**      | **Frameworks/Libraries**       | **Tools**                | **Interests**                        |
+| **Languages**      | **Frameworks/Libraries**      | **Tools**                | **Interests**                        |
 |--------------------|-------------------------------|--------------------------|--------------------------------------|
 | Java               | Django                        | Docker                   | Backend Development                 |
 | Python             | React                         | Redis                    | Machine Learning                    |
 | C/C++              | TailNext                      | RabbitMQ                 | Deep Learning                       |
 | JavaScript         | Spring                        | Maven                    | Computer Vision                     |
-| Node.js            | JUCE (C++)                    | Gradle                   | Transformers, NLP & LLMs            |
-|                    | TensorFlow/Keras              |                          | Trading Systems/Finance             |
+| Node.js            | JUCE (C++)                    | Node.js                  | Transformers, NLP & LLMs            |
+|                    | TensorFlow/Keras              | Gradle                   | Trading Systems/Finance             |
 |                    | PyTorch                       |                          | Audio Processing                    |
-|                    | p5.js                         |                          | Intelligent Signal Processing        |
+|                    | p5.js                         |                          | Intelligent Signal Processing       |
 
 ## Extracurricular certificates
 <table>
