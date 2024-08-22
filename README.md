@@ -5,7 +5,7 @@
 <!-- ![Cover photo](https://imgur.com/wSVLy5w.png) -->
 ## Hi there 👋
 
-I'm Kelvin Musodza, a software developer with a strong interest in **Backend development, Full Stack development and Machine Learning**. I'm proficient in **Java, Python, C/C++** and have experience in developing scalable software solutions for various industries.
+I'm Kelvin Musodza, a software developer with a strong interest in **Backend development, Full Stack development and Machine Learning**. I'm proficient in **Java, Python, C/C++** and I **specialize in building scalable, high-performance systems** for various industries.
 
 ### 🌱 Currently learning
 
@@ -17,7 +17,7 @@ If you have any questions or want to discuss **software development, AI/ML, NLP,
 
 ### 📫 How to reach me
 
-You can reach me via LinkedIn: https://www.linkedin.com/in/kelvin-musodza/ . I'm always happy to connect with fellow developers and discuss exciting new projects.
+You can reach me via LinkedIn: https://www.linkedin.com/in/kelvin-musodza/ . I'm always happy to connect, collaborate and discuss exciting new projects/prospects.
 
 ### ⚙️ Tech Stack
 
