@@ -25,11 +25,11 @@ You can reach me via LinkedIn: https://www.linkedin.com/in/kelvin-musodza/ . I'm
 |--------------------|-------------------------------|--------------------------|--------------------------------------|
 | Java               | Spring                        | Docker                   | Backend Development                 |
 | Python             | Django                        | Redis                    | Machine Learning                    |
-| C/C++              | Next.js                       | RabbitMQ                 | Deep Learning                       |
-| JavaScript         | React                         | Maven                    | Computer Vision                     |
-| Node.js            | JUCE (C++)                    | Node.js                  | Transformers, NLP & LLMs            |
-|                    | TensorFlow/Keras              | Gradle                   | Trading Systems/Finance             |
-|                    | PyTorch                       |                          | Audio Processing                    |
+| C/C++              | Next.js                       | RabbitMQ                 | FinTech                             |
+| JavaScript         | React                         | Maven                    | Deep Learning                       |
+| Node.js            | JUCE (C++)                    | Gradle                   | Transformers, NLP & LLMs            |
+|                    | PyTorch, TensorFlow, Keras    |                          | Computer Vision                     |
+|                    | Electron.js                   |                          | Audio Processing                    |
 |                    | p5.js                         |                          | Intelligent Signal Processing       |
 
 ## Extracurricular certificates
