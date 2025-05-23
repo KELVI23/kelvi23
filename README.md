@@ -25,7 +25,7 @@ You can reach me via LinkedIn: https://www.linkedin.com/in/kelvin-musodza/ . I'm
 |--------------------|-------------------------------|--------------------------|--------------------------------------|
 | Java               | Spring                        | Docker                   | Backend Development                 |
 | Python             | Django                        | Redis                    | Machine Learning                    |
-| C/C++              | TailNext                      | RabbitMQ                 | Deep Learning                       |
+| C/C++              | Next.js                       | RabbitMQ                 | Deep Learning                       |
 | JavaScript         | React                         | Maven                    | Computer Vision                     |
 | Node.js            | JUCE (C++)                    | Node.js                  | Transformers, NLP & LLMs            |
 |                    | TensorFlow/Keras              | Gradle                   | Trading Systems/Finance             |
